@@ -136,9 +136,8 @@ After the final report is generated, a consolidated report is automatically sent
 
 ## 📬 Contact & Feedback
 
-📧 [your-email@example.com](mailto:your-email@example.com)
-
-🔗 GitHub Profile Link
+📧 [devisarunadevidd@gmail.com](mailto:devisarunadevidd@gmail.com)  
+🔗 [GitHub Profile](https://github.com/devisarunadevid)
 
 ---
 
